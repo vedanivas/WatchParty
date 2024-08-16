@@ -1,7 +1,7 @@
 ﻿# Watch Party Application
 
 ## Introduction
-Our project focuses on developing a YouTube Watch Party application using sockets for real-time communication and React for building the web interface. The primary goal is to enable users to watch videos together remotely while simultaneously chatting with each other.
+This project focuses on developing a YouTube Watch Party application using sockets for real-time communication and React for building the web interface. The primary goal is to enable users to watch videos together remotely while simultaneously chatting with each other.
 
 ## Specifications
 
